@@ -6,3 +6,4 @@ Extend my_list with another list: [50, 60, 70].
 Remove the last element from my_list.
 Sort my_list in ascending order.
 Find and print the index of the value 30 in my_list.
+
